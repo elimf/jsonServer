@@ -1,0 +1,362 @@
+[
+  {
+    "question": "Qui est l'ennemi juré de Mario ?",
+    "media_type": "IMAGE",
+    "media_file": "bowser",
+    "difficulty": "Facile",
+    "answers": [
+      {
+        "answer": "Peach",
+        "is_true": false
+      },
+      {
+        "answer": "Goomboss",
+        "is_true": false
+      },
+      {
+        "answer": "Bowser",
+        "is_true": true
+      },
+      {
+        "answer": "Docteur Eggman",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Comment s'appelle le royaume dans lequel vit Mario ?",
+    "media_type": "IMAGE",
+    "media_file": "royaume",
+    "difficulty": "Moyen",
+    "answers": [
+      {
+        "answer": "Royaume Champignon",
+        "is_true": true
+      },
+      {
+        "answer": "Royaume de Sarasaland",
+        "is_true": false
+      },
+      {
+        "answer": "Royaume Xhampi",
+        "is_true": false
+      },
+      {
+        "answer": "Royaume Pignon",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Qui est l'ennemi juré de Luigi dans Luigi's Mansion ?",
+    "media_type": "IMAGE",
+    "media_file": "luigi",
+    "difficulty": "Difficile",
+    "answers": [
+      {
+        "answer": "Bowser",
+        "is_true": false
+      },
+      {
+        "answer": "Roi Boo",
+        "is_true": true
+      },
+      {
+        "answer": "Roi Bob-omb",
+        "is_true": false
+      },
+      {
+        "answer": "Peach",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Qui est le roi des Koopas Troopas ?",
+    "media_type": "IMAGE",
+    "media_file": "koopatroopa",
+    "difficulty": "Facile",
+    "answers": [
+      {
+        "answer": "Toad",
+        "is_true": false
+      },
+      {
+        "answer": "Big Boo",
+        "is_true": false
+      },
+      {
+        "answer": "Goomboss",
+        "is_true": false
+      },
+      {
+        "answer": "Bowser",
+        "is_true": true
+      }
+    ]
+  },
+  {
+    "question": "Qui est la meilleure amie de Peach ?",
+    "media_type": "IMAGE",
+    "media_file": "peach",
+    "difficulty": "Moyen",
+    "answers": [
+      {
+        "answer": "Princesse Xhampi",
+        "is_true": false
+      },
+      {
+        "answer": "Tatanga",
+        "is_true": false
+      },
+      {
+        "answer": "Daisy",
+        "is_true": true
+      },
+      {
+        "answer": "Aya Nakamura",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Qui est le chef des Boos ?",
+    "media_type": "IMAGE",
+    "media_file": "boo",
+    "difficulty": "Difficile",
+    "answers": [
+      {
+        "answer": "Roi Boo",
+        "is_true": true
+      },
+      {
+        "answer": "Boohemoth",
+        "is_true": false
+      },
+      {
+        "answer": "Casper",
+        "is_true": false
+      },
+      {
+        "answer": "Fantominus",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Comment est appelé le Koopa Troopa qui vole sur un nuage ?",
+    "media_type": "IMAGE",
+    "media_file": "lakitu",
+    "difficulty": "Facile",
+    "answers": [
+      {
+        "answer": "Makibu",
+        "is_true": false
+      },
+      {
+        "answer": "Lakitu",
+        "is_true": true
+      },
+      {
+        "answer": "Magnakib",
+        "is_true": false
+      },
+      {
+        "answer": "Xhampi'air",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Lesquel de ces personnages a déjà été dans un cross-over avec Mario ?",
+    "media_type": "IMAGE",
+    "media_file": "mariofeat",
+    "difficulty": "Moyen",
+    "answers": [
+      {
+        "answer": "Sackboy",
+        "is_true": false
+      },
+      {
+        "answer": "Naruto",
+        "is_true": false
+      },
+      {
+        "answer": "Mickey",
+        "is_true": false
+      },
+      {
+        "answer": "Lapin Crétin",
+        "is_true": true
+      }
+    ]
+  },
+  {
+    "question": "Comment s'appelle le personnage en costume rouge avec un masque ?",
+    "media_type": "IMAGE",
+    "media_file": "maskass",
+    "difficulty": "Facile",
+    "answers": [
+      {
+        "answer": "Tarkass",
+        "is_true": false
+      },
+      {
+        "answer": "Chalkass",
+        "is_true": false
+      },
+      {
+        "answer": "Maskass",
+        "is_true": true
+      },
+      {
+        "answer": "Laskass",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Dans lequel de ces jeux apparait pour la première fois Wario ?",
+    "media_type": "IMAGE",
+    "media_file": "warrio",
+    "difficulty": "Moyen",
+    "answers": [
+      {
+        "answer": "Super Mario Land 2 6 Golden Coins",
+        "is_true": true
+      },
+      {
+        "answer": "Mario's Bombs Away",
+        "is_true": false
+      },
+      {
+        "answer": "Luigi's Mansion 2",
+        "is_true": false
+      },
+      {
+        "answer": "Mario Bros",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Qui enlève la Princesse Daisy dans Super Mario Land ?",
+    "media_type": "IMAGE",
+    "media_file": "tatanga",
+    "difficulty": "Difficile",
+    "answers": [
+      {
+        "answer": "Tatanga",
+        "is_true": true
+      },
+      {
+        "answer": "Roi Boo",
+        "is_true": false
+      },
+      {
+        "answer": "Bowser",
+        "is_true": false
+      },
+      {
+        "answer": "Antasma",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Comment s'appelle le Koopa sorcier à lunettes sur un balai ?",
+    "media_type": "IMAGE",
+    "media_file": "magikk",
+    "difficulty": "Moyen",
+    "answers": [
+      {
+        "answer": "Magikoopa",
+        "is_true": true
+      },
+      {
+        "answer": "Nécrokoopa",
+        "is_true": false
+      },
+      {
+        "answer": "Sorkoopa",
+        "is_true": false
+      },
+      {
+        "answer": "Crakoopa",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Dans quel jeu est apparu cette musique pour la première fois ?",
+    "media_type": "AUDIO",
+    "media_file": "mario64main_theme",
+    "difficulty": "Difficile",
+    "answers": [
+      {
+        "answer": "Super Mario Bros",
+        "is_true": false
+      },
+      {
+        "answer": "Super Mario 64",
+        "is_true": true
+      },
+      {
+        "answer": "Mario Kart",
+        "is_true": false
+      },
+      {
+        "answer": "Luigi's Mansion 2",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Sur quel platforme peut on entendre ce theme ?",
+    "media_type": "AUDIO",
+    "media_file": "mario_bros_wii_overworld_main_theme",
+    "difficulty": "Difficile",
+    "answers": [
+      {
+        "answer": "DS",
+        "is_true": false
+      },
+      {
+        "answer": "Wii",
+        "is_true": true
+      },
+      {
+        "answer": "GameCube",
+        "is_true": false
+      },
+      {
+        "answer": "Switch",
+        "is_true": false
+      }
+    ]
+  },
+  {
+    "question": "Quel monstre fait ce bruit ?",
+    "media_type": "AUDIO",
+    "media_file": "boo_noise",
+    "difficulty": "Moyen",
+    "answers": [
+      {
+        "answer": "Boo",
+        "is_true": true
+      },
+      {
+        "answer": "Skelerex",
+        "is_true": false
+      },
+      {
+        "answer": "Koopa",
+        "is_true": false
+      },
+      {
+        "answer": "Goomba",
+        "is_true": false
+      }
+    ]
+  }
+]
